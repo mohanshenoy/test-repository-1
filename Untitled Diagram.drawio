@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T07:29:56.101Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="YvzuVrnOROgkUbjbsKHS" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-13T09:15:34.562Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="NmFUAG5Q-XU7wK9asxgT" version="20.0.4" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="1162" dy="2647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1243" dy="2757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,17 +30,17 @@
         <mxCell id="2UfcmBDN33OV_tJoAeHY-19" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;files the complaint&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;to the court&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-2" vertex="1">
           <mxGeometry x="65" y="100" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2UfcmBDN33OV_tJoAeHY-32" value="complaint filing" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#00FFFF;base=15;" parent="1c1d494c118603dd-2" vertex="1">
+        <mxCell id="2UfcmBDN33OV_tJoAeHY-32" value="&lt;b&gt;complaint filing&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#00FFFF;base=15;" parent="1c1d494c118603dd-2" vertex="1">
           <mxGeometry x="132.79" y="60" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2UfcmBDN33OV_tJoAeHY-35" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;file for&amp;nbsp;&lt;br&gt;&lt;/span&gt;default judgement" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-2" vertex="1">
           <mxGeometry x="60.44" y="180" width="125" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2UfcmBDN33OV_tJoAeHY-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1c1d494c118603dd-2" source="1c1d494c118603dd-25" target="2UfcmBDN33OV_tJoAeHY-35" edge="1">
+        <mxCell id="0B_wOIiWrTWoLfBLyzmz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.568;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1c1d494c118603dd-2" source="1c1d494c118603dd-25" target="2UfcmBDN33OV_tJoAeHY-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1c1d494c118603dd-25" value="if Defendant does not&lt;br&gt;respond within specified time &lt;br&gt;period" style="shape=note;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;size=20;fillColor=#FFFF00;" parent="1c1d494c118603dd-2" vertex="1">
-          <mxGeometry x="32.94" y="260" width="180" height="50" as="geometry" />
+        <mxCell id="1c1d494c118603dd-25" value="if Defendant does not&lt;br&gt;respond within specified time &lt;br&gt;period, he can&amp;nbsp;&lt;br&gt;1)&amp;nbsp;Request for Entry of Default&lt;br&gt;2)&amp;nbsp;Request of Entry of Court Judgement" style="shape=note;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;size=20;fillColor=#FFFF00;" parent="1c1d494c118603dd-2" vertex="1">
+          <mxGeometry x="20" y="260" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2UfcmBDN33OV_tJoAeHY-46" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;file motion for &lt;br&gt;summary judgement&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-2" vertex="1">
           <mxGeometry x="35.44" y="505" width="150" height="50" as="geometry" />
@@ -48,10 +48,10 @@
         <mxCell id="2UfcmBDN33OV_tJoAeHY-47" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;file motion for &lt;br&gt;judgement on the pleading&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-2" vertex="1">
           <mxGeometry x="42.93" y="620" width="137.62" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2UfcmBDN33OV_tJoAeHY-50" value="motion for&lt;br&gt;summary judgement" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#00FFFF;base=10;position2=0.11;" parent="1c1d494c118603dd-2" vertex="1">
+        <mxCell id="2UfcmBDN33OV_tJoAeHY-50" value="&lt;b&gt;motion for&lt;br&gt;summary judgement&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#00FFFF;base=10;position2=0.11;" parent="1c1d494c118603dd-2" vertex="1">
           <mxGeometry x="150" y="440" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2UfcmBDN33OV_tJoAeHY-52" value="motion for&amp;nbsp;judgement on the pleading" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#00FFFF;base=10;position2=0.85;" parent="1c1d494c118603dd-2" vertex="1">
+        <mxCell id="2UfcmBDN33OV_tJoAeHY-52" value="&lt;b&gt;motion for&amp;nbsp;judgement on the pleading&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#00FFFF;base=10;position2=0.85;" parent="1c1d494c118603dd-2" vertex="1">
           <mxGeometry x="13.689999999999998" y="560" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rqw2_flAwsqcisbEdpRb-68" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;file Judgement Debtor examination&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;/order to appear&lt;/span&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-2" vertex="1">
@@ -209,7 +209,7 @@
         <mxCell id="2UfcmBDN33OV_tJoAeHY-40" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;accept&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-3" vertex="1">
           <mxGeometry x="243.94" y="360" width="75" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="2UfcmBDN33OV_tJoAeHY-41" value="default judgement" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#00FFFF;base=10;position2=0.11;" parent="1c1d494c118603dd-3" vertex="1">
+        <mxCell id="2UfcmBDN33OV_tJoAeHY-41" value="&lt;b&gt;default judgement&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#00FFFF;base=10;position2=0.11;" parent="1c1d494c118603dd-3" vertex="1">
           <mxGeometry x="296.44" y="310" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2UfcmBDN33OV_tJoAeHY-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1c1d494c118603dd-3" source="2UfcmBDN33OV_tJoAeHY-57" target="2UfcmBDN33OV_tJoAeHY-60" edge="1">
@@ -274,10 +274,10 @@
         <mxCell id="rqw2_flAwsqcisbEdpRb-80" value="review" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1c1d494c118603dd-3" vertex="1">
           <mxGeometry x="197.88" y="1590" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rqw2_flAwsqcisbEdpRb-86" value="summary judgement" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#00FFFF;base=10;position2=1;" parent="1c1d494c118603dd-3" vertex="1">
+        <mxCell id="rqw2_flAwsqcisbEdpRb-86" value="&lt;b&gt;summary judgement&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#00FFFF;base=10;position2=1;" parent="1c1d494c118603dd-3" vertex="1">
           <mxGeometry x="131.44" y="580" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rqw2_flAwsqcisbEdpRb-87" value="judgement on the pleading" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#00FFFF;base=10;position2=0.11;" parent="1c1d494c118603dd-3" vertex="1">
+        <mxCell id="rqw2_flAwsqcisbEdpRb-87" value="&lt;b&gt;judgement on the pleading&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#00FFFF;base=10;position2=0.11;" parent="1c1d494c118603dd-3" vertex="1">
           <mxGeometry x="290.00000000000006" y="580" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rqw2_flAwsqcisbEdpRb-92" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;accept&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-3" vertex="1">
@@ -358,7 +358,7 @@
         <mxCell id="2UfcmBDN33OV_tJoAeHY-26" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;reply to summons&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-4" vertex="1">
           <mxGeometry x="47.5" y="100" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2UfcmBDN33OV_tJoAeHY-33" value="answer" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#00FFFF;base=13;" parent="1c1d494c118603dd-4" vertex="1">
+        <mxCell id="2UfcmBDN33OV_tJoAeHY-33" value="&lt;b&gt;answer&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#00FFFF;base=13;" parent="1c1d494c118603dd-4" vertex="1">
           <mxGeometry x="102.5" y="50" width="77.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2UfcmBDN33OV_tJoAeHY-53" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;file motion for &lt;br&gt;summary judgement&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-4" vertex="1">
@@ -367,10 +367,10 @@
         <mxCell id="2UfcmBDN33OV_tJoAeHY-54" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;file motion for &lt;br&gt;judgement on the pleading&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-4" vertex="1">
           <mxGeometry x="15.77" y="620" width="114.23" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2UfcmBDN33OV_tJoAeHY-55" value="motion for&lt;br&gt;summary judgement" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#00FFFF;base=10;position2=0.11;" parent="1c1d494c118603dd-4" vertex="1">
+        <mxCell id="2UfcmBDN33OV_tJoAeHY-55" value="&lt;b&gt;motion for&lt;br&gt;summary judgement&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#00FFFF;base=10;position2=0.11;" parent="1c1d494c118603dd-4" vertex="1">
           <mxGeometry x="142.06000000000006" y="440" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2UfcmBDN33OV_tJoAeHY-56" value="motion for&amp;nbsp;judgement on the pleading" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#00FFFF;base=10;position2=0.11;" parent="1c1d494c118603dd-4" vertex="1">
+        <mxCell id="2UfcmBDN33OV_tJoAeHY-56" value="&lt;b&gt;motion for&amp;nbsp;judgement on the pleading&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#00FFFF;base=10;position2=0.11;" parent="1c1d494c118603dd-4" vertex="1">
           <mxGeometry x="108.97000000000006" y="560" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rqw2_flAwsqcisbEdpRb-74" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;file Judgement Debtor examination&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;/order to appear&lt;/span&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-4" vertex="1">
